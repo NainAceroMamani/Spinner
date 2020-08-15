@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spiner</string>
+
+    <string-array name="spinner2">
+        <item>Unicación de Negocio</item>
+        <item>Calle de Negocio</item>
+        <item>Enviar Correo</item>
+    </string-array>
+</resources>
